@@ -1,6 +1,6 @@
 # Policy Services Manager
 
-Try Hard Making The Apps Shit...
+Main Branch, Kalau mau pull atau push tolong ke Developement Branch, Thanks
 
 # Front End Almost Finished
 
